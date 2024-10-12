@@ -1,0 +1,227 @@
+@media(max-width:1199px){
+    .hero .row {
+        min-height: 768px;
+    }
+
+    .para_short{
+        width: 60%;
+    }
+
+    .price{
+        width: 60%;
+    }
+
+    .exp_ft{
+        width: 50%;
+    }
+
+    .cta .row {
+        min-height: 450px;
+    }
+
+    .social{
+        width: 15%;
+    }
+
+    .footer{
+        padding: 30px 15px;
+    }
+} 
+
+@media(max-width:991px) {
+    .cp-60 {
+        padding: 40px 15px;
+    }
+
+    .nav-link {
+        margin-bottom: 5px;
+        text-align: center;
+    }
+
+    .hero .row {
+        min-height: 768px;
+    }
+
+    .para_short {
+        width: 80%;
+    }
+
+    .excel {
+        width: 100%;
+    }
+
+    .btn_hero {
+        width: 100%;
+    }
+
+
+    .btn_exp {
+        width: 75%;
+    }
+
+    .product_card {
+        padding: 30px;
+    }
+
+    .price {
+        width: 100%;
+    }
+
+    .feature_card {
+        min-height: 390px;
+    }
+
+    .exp_content {
+        padding: 50px 20px;
+    }
+
+    .exp_ft {
+        width: 410px;
+    }
+
+    .ft {
+        margin-bottom: 0px;
+    }
+
+    .review_box {
+        padding: 30px;
+    }
+
+    .review_content {
+        padding: 50px 20px;
+    }
+
+    .btn_cta {
+        width: 100%;
+    }
+
+    .cta_box h2 {
+        font-size: 40px;
+    }
+
+    .cta .row {
+        min-height: 400px;
+    }
+
+    .social {
+        width: 140px;
+    }
+}
+
+
+@media(max-width:767px) {
+    h1 {
+        font-size: 32px;
+    }
+
+    h2 {
+        font-size: 28px;
+    }
+
+    .cp-60 {
+        padding: 30px 15px;
+        text-align: center;
+    }
+
+    .nav-link {
+        margin-bottom: 5px;
+        text-align: center;
+    }
+
+    .hero_title {
+        margin-top: 63px;
+    }
+
+    .hero .row {
+        min-height: 768px;
+    }
+
+    .para_short {
+        width: 100%;
+    }
+
+    .excel {
+        width: 100%;
+    }
+
+    .btn_hero {
+        width: 100%;
+    }
+
+    .trustpilot img {
+        padding: 5px 0px;
+        width: 80px;
+    }
+
+    .excel {
+        flex-direction: column;
+    }
+
+    .trustpilot {
+        /* flex-direction: column; */
+        align-items: center;
+        justify-content: space-between;
+        width: 60%;
+    }
+
+    .btn_exp {
+        width: 100%;
+    }
+
+    .product_card {
+        padding: 30px;
+    }
+
+    .price {
+        width: 100%;
+    }
+
+    .exp_content {
+        padding: 50px 20px;
+    }
+
+    .exp_ft {
+        width: 100%;
+        flex-direction: column;
+    }
+
+    .ft {
+        margin-bottom: 20px;
+    }
+
+    .client_des {
+        flex-direction: column;
+        align-items: center;
+    }
+
+    .review_box {
+        padding: 30px 15px;
+        text-align: center;
+    }
+
+    .review_content {
+        padding: 50px 20px;
+    }
+
+    .btn_cta {
+        width: 100%;
+    }
+
+    .cta_box h2 {
+        font-size: 30px;
+    }
+
+    .cta .row {
+        min-height: 400px;
+    }
+
+    .social {
+        width: 140px;
+    }
+}
+
+@media(max-width:500px){
+    .trustpilot{
+        width: 80%;
+    }
+}
