@@ -1,4 +1,2 @@
-# webshare_proxy
-# Landing Page Design
-# Visit: https://faruq05.github.io/webshare_proxy/
-# webshare-proxy
+
+# https://zellyo-digital0.github.io/webshare-proxy
